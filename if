@@ -1,0 +1,18 @@
+public calss if{
+ public static void main(String[] args){
+ int grade=99;
+        if (grade>=90){
+         System.out.println("你的等级为a");
+    }
+        else if(grade>=80){
+            System.out.println("您的等级为b");
+        }else if (grade>=70){
+            System.out.println("您的等级为c");
+        }else if (grade>=60){
+           System.out.println("您的等级为d");
+
+          }  else{
+        System.out.println("您不及格");
+        }
+ }
+}
